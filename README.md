@@ -28,11 +28,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📈 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=pruthvikp&show_icons=true&theme=radical)
 
+## 💡 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pruthvikp&theme=radical)
+
 ## 🔥 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvikp&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pruthvikp&theme=radical)
 
 ## 🌟 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=pruthvikp&color=brightgreen)
@@ -45,5 +45,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 Feel free to reach out if you have any questions, ideas, or collaboration opportunities. I'm always excited to connect with fellow developers and learn new things!
 
 ---
-
-⭐️ From [Pruthvi K P]
