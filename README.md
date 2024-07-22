@@ -38,8 +38,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![Profile Views](https://komarev.com/ghpvc/?username=pruthvikp&color=brightgreen)
 
 ## 📫 How to reach me
-- **Email:** [pruthvi2003kp@gmail.com]
-- **LinkedIn:** [www.linkedin.com/in/pruthvikp]
+- **Email:** pruthvi2003kp@gmail.com
+- **LinkedIn:** www.linkedin.com/in/pruthvikp
 
 ## 💬 Let's Connect!
 Feel free to reach out if you have any questions, ideas, or collaboration opportunities. I'm always excited to connect with fellow developers and learn new things!
