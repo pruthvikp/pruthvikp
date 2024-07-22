@@ -1,9 +1,9 @@
 # Hi there, I'm Pruthvi K P 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in machine learning and web development. Here's a bit about me:
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Machine Learning and Web Development. Here's a bit about me:
 
 ## 🚀 About Me
-- **🌱 Currently learning:** Web development, specifically focusing on enhancing my knowledge in HTML, CSS, and JavaScript.
+- **🌱 Currently learning:** Web development, specifically focusing on enhancing my knowledge in React,HTML, CSS, and JavaScript.
 - **👨‍💻 Experienced in:** Python, C, SQL, JavaScript, Data Structures and Algorithms, Machine Learning, Deep Learning, Data Science, NLP, and Web Development.
 - **🛠️ Projects:**
   - **[Online Shopping Behavior Analysis](#)**: Developed a machine learning project focusing on predicting customer purchase behavior to enhance e-commerce sales. Implemented and compared multiple machine learning models, including KNN, Naive Bayes, SVM, and Random Forest, and built a user-friendly web application using Flask for real-time predictions.
