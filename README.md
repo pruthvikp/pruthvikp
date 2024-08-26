@@ -6,17 +6,18 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **🌱 Currently learning:** Web development, specifically focusing on enhancing my knowledge in React,HTML, CSS, and JavaScript.
 - **👨‍💻 Experienced in:** Python, C, SQL, JavaScript, Data Structures and Algorithms, Machine Learning, Deep Learning, Data Science, NLP, and Web Development.
   
+Here’s the updated content for your GitHub README:
+
 - **🛠️ Projects:**
-
-- **[Online Shopping Behavior Analysis](https://github.com/pruthvikp/ONLINE_SHOPPING_BEHAVIOR_ANALYSIS)**: Developed a machine learning project focusing on predicting customer purchase behavior to enhance e-commerce sales. Implemented and compared multiple machine learning models, including KNN, Naive Bayes, SVM, and Random Forest, and built a user-friendly web application using Flask for real-time predictions.
+  - **[Online Shopping Behavior Analysis](https://github.com/pruthvikp/ONLINE_SHOPPING_BEHAVIOR_ANALYSIS)**: Developed a machine learning project focusing on predicting customer purchase behavior to enhance e-commerce sales. Implemented and compared multiple machine learning models, including KNN, Naive Bayes, SVM, and Random Forest, and built a user-friendly web application using Flask for real-time predictions.
   
-- **[Yelp Reviews Classification using NLP](https://github.com/pruthvikp/YELP_REVIEWS_CLASSIFICATION_USING_NLP)**: Built a project for classifying Yelp reviews using natural language processing techniques to analyze sentiments and categorize feedback.
+  - **[Yelp Reviews Classification using NLP](https://github.com/pruthvikp/YELP_REVIEWS_CLASSIFICATION_USING_NLP)**: Built a project for classifying Yelp reviews using natural language processing techniques to analyze sentiments and categorize feedback.
 
-- **[GPA Calculator using HTML, CSS, Javascript](https://pruthvikp.github.io/GPA_CALCULATOR)**: Created a web-based GPA calculator that computes SGPA and CGPA, utilizing HTML, CSS, and Javascript.
+  - **Restaurant Database Management System using MySQL**: Developed a database management system for restaurant operations, focusing on efficient data handling and query processing using MySQL.
 
-- **[Othello clone using Minimax algorithm and Alpha-beta pruning](https://github.com/pruthvikp/OTHELLO-CLONE)**: Implemented a clone of the Othello game using the Minimax algorithm and Alpha-beta pruning, providing a strategic AI opponent.
+  - **[GPA Calculator using HTML, CSS, Javascript](https://pruthvikp.github.io/GPA_CALCULATOR)**: Created a web-based GPA calculator that computes SGPA and CGPA, utilizing HTML, CSS, and Javascript.
 
-- **Restaurant Database Management System using MySQL**: Developed a database management system for restaurant operations, focusing on efficient data handling and query processing using MySQL.
+  - **[Othello clone using Minimax algorithm and Alpha-beta pruning](https://github.com/pruthvikp/OTHELLO-CLONE)**: Implemented a clone of the Othello game using the Minimax algorithm and Alpha-beta pruning, providing a strategic AI opponent.
 
 - **🏆 Hackathons:**
   - **Tally CodeBrewers 2024 | National Level**: Developed an online coding platform—**[CodeConquer](https://github.com/pruthvikp/CODE-CONQUER)**—using the MERN stack, providing a comprehensive environment for coding practice, competitions, and skill improvement. Created features like Coding Playground, Coding Arena, and Coding Battleground to enhance user engagement.
