@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Machine Learning and Web Development. Here's a bit about me:
 
 ## 🚀 About Me
-- **🌱 Currently learning:** Web development, specifically focusing on enhancing my knowledge in React,HTML, CSS, and JavaScript.
-- **👨‍💻 Experienced in:** Python, C, SQL, JavaScript, Data Structures and Algorithms, Machine Learning, Deep Learning, Data Science, NLP, and Web Development.
+- **🌱 Currently learning:** Web development, specifically focusing on enhancing my knowledge in MERN stack.
+- **👨‍💻 Experienced in:** Python, C, SQL, JavaScript, Data Structures and Algorithms, Data Science, Machine Learning, Deep Learning, NLP, and Web Development.
   
 Here’s the updated content for your GitHub README:
 
