@@ -13,7 +13,7 @@ Here’s the updated content for your GitHub README:
   
   - **[Yelp Reviews Classification](https://github.com/pruthvikp/YELP_REVIEWS_CLASSIFICATION_USING_NLP)**: Built a project for classifying Yelp reviews using natural language processing techniques to analyze sentiments and categorize feedback.
 
-  - **[Code Conquer](https://github.com/pruthvikp/CODE-CONQUER)**: Developed an online coding platfor using the MERN stack, providing a comprehensive environment for coding practice, competitions, and skill improvement. Created features like Coding Playground, Coding Arena, and Coding Battleground to enhance user engagement. 
+  - **[Code Conquer](https://github.com/pruthvikp/CODE-CONQUER)**: Developed an online coding platform using the MERN stack, providing a comprehensive environment for coding practice, competitions, and skill improvement. Created features like Coding Playground, Coding Arena, and Coding Battleground to enhance user engagement. 
 
   - **Restaurant Database Management System**: Developed a database management system for restaurant operations, focusing on efficient data handling and query processing using MySQL.
 
